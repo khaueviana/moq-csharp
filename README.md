@@ -1,4 +1,4 @@
-# Exemplo de teste de unidade com Moq - C#
+# Exemplo de teste de unidade com Moq - CSharp
 
 Exemplo de teste de unidade com a lib MOQ em projetos C#.NET.
 
