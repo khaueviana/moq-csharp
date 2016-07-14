@@ -1,0 +1,7 @@
+C:\Users\khaueviana\Desktop\KV.MoqSample\KV.MoqSample\bin\Debug\KV.MoqSample.exe.config
+C:\Users\khaueviana\Workspace\kv-github\moq-sample-csharp\KV.MoqSample\KV.MoqSample\bin\Debug\KV.MoqSample.exe.config
+C:\Users\khaueviana\Workspace\kv-github\moq-sample-csharp\KV.MoqSample\KV.MoqSample\bin\Debug\KV.MoqSample.exe
+C:\Users\khaueviana\Workspace\kv-github\moq-sample-csharp\KV.MoqSample\KV.MoqSample\bin\Debug\KV.MoqSample.pdb
+C:\Users\khaueviana\Workspace\kv-github\moq-sample-csharp\KV.MoqSample\KV.MoqSample\obj\Debug\KV.MoqSample.csprojResolveAssemblyReference.cache
+C:\Users\khaueviana\Workspace\kv-github\moq-sample-csharp\KV.MoqSample\KV.MoqSample\obj\Debug\KV.MoqSample.exe
+C:\Users\khaueviana\Workspace\kv-github\moq-sample-csharp\KV.MoqSample\KV.MoqSample\obj\Debug\KV.MoqSample.pdb
