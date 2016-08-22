@@ -1,4 +1,4 @@
-# Unit test with Moq - CSharp
+# moq-csharp
 
 Unit test example with MOQ lib in C # .NET projects.
 
