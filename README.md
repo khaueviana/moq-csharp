@@ -2,7 +2,7 @@
 
 Unit test example with MOQ lib in C # .NET projects.
 
-References:
+References
 ------------
 
 Monster Macoratti
